@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react": "16.13.0",
+    "react-clock": "^3.0.0",
+    "react-dom": "16.13.0",
+    "react-responsive-carousel": "^3.2.18"
+  }
+}
